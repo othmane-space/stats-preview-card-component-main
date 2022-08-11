@@ -27,7 +27,7 @@ body{
 }
 .img-container{
  width: 100%;
- background-image: url(/stats-preview-card-component-main/images/image-header-desktop.jpg);
+ background-image: url(/images/image-header-desktop.jpg);
  background-position: center;
  background-size: cover;
  position: relative;
@@ -108,7 +108,7 @@ body{
  width: 280px;
 }
 .img-container{
- background-image: url(/stats-preview-card-component-main/images/image-header-mobile.jpg);
+ background-image: url(/images/image-header-mobile.jpg);
  height: 35%;
 }
 .text{
